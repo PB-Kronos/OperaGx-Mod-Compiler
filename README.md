@@ -10,4 +10,4 @@ Ain't that easy?
 
 
 Usage:
-All you have to do is run the file in the folder ABOVE YOUR MOD'S ROOT FOLDER
+All you have to do is run the file in the folder ABOVE YOUR MOD'S ROOT FOLDER, and rename your mod folder to "current"
