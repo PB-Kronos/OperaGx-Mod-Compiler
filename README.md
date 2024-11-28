@@ -11,3 +11,4 @@ Ain't that easy?
 
 Usage:
 All you have to do is run the file in the folder ABOVE YOUR MOD'S ROOT FOLDER, and rename your mod folder to "current"
+Windows 10+ (from build 1607) or Windows Server 2016+, Requires Powershell 5.0+
